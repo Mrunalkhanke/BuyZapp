@@ -1,6 +1,6 @@
 # ShopOn
 This is an Android Native application  for the problem statement related to shopping experience. The detailed problem statement and proposed solution are mentioned furthur in the document.  
-Click [here](https://youtu.be/ebxUM9ym_Bw) for the video presentation with app demo.
+
 
 ## Problem Statement:
 What is that one thing that has refrained customers from buying online for a long time? One of the prominent differences between traditional and online shopping has been physically experiencing the products, confirming its size, all of which has been a pain point for a very long time while buying any product online. If we could solve this problem of product trials, checking the product dimensions by comparing it with real world objects, we can onboard many customers who doesn’t buy online because of this gap.
@@ -35,9 +35,6 @@ The solution is highly scalable as it can be implemented with the existing shopp
 ## Business Relevance :
 After bringing the idea to production, more and more users will be tempted to check out the products and the transition barrier from traditional offline buying to online would be reduced, thus increasing the sales.
 
-## Use this application : 
-
-1. You can download the [APK](https://drive.google.com/file/d/1jXiykk2tw-S18ywyPzSPNj8OBwTRiybX/view?usp=sharing), and then install it (you might have to enable installation from unknown sources).
 
 
 
