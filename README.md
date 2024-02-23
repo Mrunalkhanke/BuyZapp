@@ -1,4 +1,4 @@
-# ShopOn
+# BuyZapp
 This is an Android Native application  for the problem statement related to shopping experience. The detailed problem statement and proposed solution are mentioned furthur in the document.  
 
 
