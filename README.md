@@ -20,7 +20,7 @@ We will be using SceneViewer by triggering a explicit intent to it. Scene Viewer
 5. Scalable Future: Design for scalability, allowing easy expansion of AR use as preferences and tech evolve.
 6. Iterative Development: Enable continuous improvement through iterative development for optimal AR performance.
 
-# ARCore uses three key capabilities to integrate virtual content with the real world as seen through your phone's camera:
+## ARCore uses three key capabilities to integrate virtual content with the real world as seen through your phone's camera:
 1. Motion tracking allows the phone to understand and track its position relative to the world.
 2. Environmental understanding allows the phone to detect the size and location of all type of surfaces: horizontal, vertical and angled surfaces like the ground, a coffee table or walls.
 3. Light estimation allows the phone to estimate the environment's current lighting conditions.
